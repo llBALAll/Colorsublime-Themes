@@ -623,13 +623,6 @@
 			</dict>
 		</dict>
 	</array>
-	<key>uuid</key>
-	<string>a537a3d7-d5ed-e571-8f2b-597568233925</string>
-	<key>colorSpaceName</key>
-	<string>sRGB</string>
-	<key>semanticClass</key>
-	<string>theme.dark.purple_green2</string>
-	<key>author</key>
-	<string>Vinicius Araujo</string>
+
 </dict>
 </plist>
