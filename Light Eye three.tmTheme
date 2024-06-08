@@ -5,7 +5,7 @@
 	<key>author</key>
 	<string>Vinicius Araujo</string>
 	<key>name</key>
-	<string>Light Eye three</string>
+	<string>Light Eye four</string>
 	<key>settings</key>
 	<array>
 		<dict>
@@ -35,7 +35,7 @@
 				<key>fontStyle</key>
 				<string>italic</string>
 				<key>foreground</key>
-				<string>#707070</string>
+				<string>#A0A0A0</string>
 			</dict>
 		</dict>
 		<dict>
@@ -61,7 +61,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#0000CD</string>
+				<string>#0143c4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -72,9 +72,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string>italic</string>
 				<key>foreground</key>
-				<string>#C5060B</string>
+				<string>#AA0000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -90,6 +90,19 @@
 				<string>#585CF6</string>
 			</dict>
 		</dict>
+        <dict>
+			<key>name</key>
+			<string>Variable</string>
+			<key>scope</key>
+			<string>variable</string>
+			<key>settings</key>
+			<dict>
+				<key>fontStyle</key>
+				<string></string>
+				<key>foreground</key>
+				<string>#0143c4</string>
+			</dict>
+		</dict>
 		<dict>
 			<key>name</key>
 			<string>Variable</string>
@@ -100,7 +113,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#318495</string>
+				<string>#0143c4</string>
 			</dict>
 		</dict>
 		<dict>
@@ -126,7 +139,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#26B31A</string>
+				<string>#AA0000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -212,6 +225,8 @@
 			<dict>
 				<key>fontStyle</key>
 				<string>italic</string>
+                <key>foreground</key>
+				<string>#000000</string>
 			</dict>
 		</dict>
 		<dict>
@@ -259,9 +274,9 @@
 			<key>settings</key>
 			<dict>
 				<key>fontStyle</key>
-				<string>bold</string>
+				<string>italic</string>
 				<key>foreground</key>
-				<string>#6D79DE</string>
+				<string>#AA0000</string>
 			</dict>
 		</dict>
 		<dict>
