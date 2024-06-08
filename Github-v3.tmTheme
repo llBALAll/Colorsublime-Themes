@@ -44,11 +44,11 @@
 
                     <!-- Brackets -->
                     <key>bracketsForeground</key>
-                    <string>#63a35c</string>
+                    <string>#000000</string>
                     <key>bracketsOptions</key>
-                    <string>underline</string>
+                    <string>bold</string>
                     <key>bracketContentsForeground</key>
-                    <string>#63a35c</string>
+                    <string>#000000</string>
                     <key>bracketContentsOptions</key>
                     <string>underline</string>
 

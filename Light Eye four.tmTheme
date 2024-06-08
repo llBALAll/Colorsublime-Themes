@@ -22,7 +22,16 @@
 				<key>lineHighlight</key>
 				<string>#00000012</string>
 				<key>selection</key>
-				<string>#4D97FF54</string>
+				<string>#4D97FF54</>
+                <!-- Brackets -->
+                <key>bracketsForeground</key>
+                <string>#000000</string>
+                <key>bracketsOptions</key>
+                <string>bold</string>
+                <key>bracketContentsForeground</key>
+                <string>#000000</string>
+                <key>bracketContentsOptions</key>
+                <string>underline</string>
 			</dict>
 		</dict>
 		<dict>

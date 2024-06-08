@@ -31,12 +31,12 @@
 				<string>#9D550FB0</string>
 
 				<key>bracketsForeground</key>
-				<string>#F8F8F2A5</string>
+				<string>#00FF00FF</string>
 				<key>bracketsOptions</key>
-				<string>underline</string>
+				<string>foreground</string>
 
 				<key>bracketContentsForeground</key>
-				<string>#F8F8F2A5</string>
+				<string>#00FF00FF</string>
 				<key>bracketContentsOptions</key>
 				<string>underline</string>
 
@@ -242,7 +242,7 @@
 				<key>fontStyle</key>
 				<string></string>
 				<key>foreground</key>
-				<string>#66D9EF</string>
+				<string>#F92672</string>
 			</dict>
 		</dict>
 		<dict>
